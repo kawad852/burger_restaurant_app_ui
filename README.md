@@ -1,16 +1,13 @@
 # burger_restaurant_app_ui
 
-A new Flutter project.
+Burger restaurant app ui
 
-## Getting Started
+design inspired by: https://dribbble.com/shots/16359944/attachments/9011630?mode=media
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/100917970/163385645-f75f6882-33d8-4ebf-9421-2ea256bbb638.jpg" height="400" />
+  <img src="https://user-images.githubusercontent.com/100917970/163385740-5af4e085-3f94-41ff-9cfc-66e295148c53.jpg" height="400" />
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
